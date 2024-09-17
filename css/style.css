@@ -31,3 +31,9 @@ img {
     overflow: hidden;
     z-index: 1;
 }
+
+#descricao {
+    position: relative;
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
